@@ -6,7 +6,6 @@ init.lua        : 701 bytes
 s.txt           : 53 bytes
 server.lua      : 1277 bytes
 y.htm           : 170 bytes
-----------------------------
 Total file(s)   : 5
 Total size      : 3813 bytes
 
