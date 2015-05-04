@@ -1,12 +1,25 @@
 # ESPLoader
 6 kB init.lua for NodeMCU to install lua files via wifi 
 
+Total 6: 8021 bytes
+
+Used  : 5773 bytes
+
+Remain: 62248 bytes
+
+
 client.lua      : 1612 bytes
+
 init.lua        : 701 bytes
+
 s.txt           : 53 bytes
+
 server.lua      : 1277 bytes
+
 y.htm           : 170 bytes
+
 Total file(s)   : 5
+
 Total size      : 3813 bytes
 
 I don't want to hook up the ESP via RX TX to a usb-serial. Only once to flash such a firmware:
