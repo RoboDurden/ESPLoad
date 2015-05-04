@@ -1,0 +1,7 @@
+host=81.169.145.148
+path=do.lua
+ssid=G3_1234
+pwd=password
+err=x
+domain=robosoft.de
+update=1
